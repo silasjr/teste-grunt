@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proces",
+				"process.env"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"mod",
+				"module.exports"
+			],
+			[
+				"n",
+				"nodejs"
+			],
+			[
+				"a",
+				"apt-nodejs"
+			],
+			[
+				"ap",
+				"apt-update"
+			],
+			[
+				"my",
+				"mysql-rede"
+			],
+			[
+				"M",
+				"mysql"
+			],
+			[
+				"m",
+				"mysql-password"
+			],
+			[
+				"ca",
+				"casadocodigo_nodejs"
+			],
+			[
+				"h1",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 354.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/silas/alura/grunt-angularjs"
+	],
+	"file_history":
+	[
+		"/home/silas/alura/grunt/projeto/public/css/teste.css",
+		"/home/silas/alura/grunt/projeto/dist/index.html",
+		"/home/silas/alura/grunt/projeto/package.json",
+		"/home/silas/git/festas/festas/src/main/java/br/com/silasjr/festas/view/BuffetBean.java",
+		"/home/silas/alura/infracad/app/views/servidor/list.ejs",
+		"/home/silas/alura/infracad/config/express.js",
+		"/home/silas/alura/infracad/app/views/layout.ejs",
+		"/home/silas/alura/infracad/app/views/partials/head.ejs",
+		"/home/silas/alura/infracad/app/views/partials/header.ejs",
+		"/home/silas/alura/infracad/app/views/partials/footer.ejs",
+		"/home/silas/alura/infracad/package.json",
+		"/home/silas/alura/infracad/app/infra/ConnectionFactory.js",
+		"/home/silas/alura/infracad/app/infra/ServidorDAO.js",
+		"/home/silas/alura/infracad/app/routes/servidor.js",
+		"/home/silas/alura/infracad/client-infracad.js",
+		"/home/silas/alura/infracad/html/index.html",
+		"/home/silas/alura/infracad/app.js",
+		"/home/silas/alura/vm-mysql/Vagrantfile",
+		"/home/silas/alura/produtos-nodejs/app/routes/produtos.js",
+		"/home/silas/alura/infracad/vm-node/Vagrantfile",
+		"/home/silas/alura/produtos-nodejs/vm-mysql/cria-base.sql",
+		"/home/silas/alura/produtos-nodejs/app/views/produtos/lista.ejs",
+		"/home/silas/alura/produtos-nodejs/app/infra/connectionFactory.js",
+		"/home/silas/alura/produtos-nodejs/vm-node/manifests/vm-node.pp",
+		"/home/silas/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/silas/alura/vm-mysql/manifests/vm-mysql.pp",
+		"/home/silas/alura/produtos-nodejs/vm-node/Vagrantfile",
+		"/home/silas/alura/vm-mysql/vm-mysql.pp",
+		"/home/silas/alura/produtos-nodejs/views/produtos/lista.ejs",
+		"/home/silas/alura/produtos-nodejs/views/produtos/view.ejs",
+		"/home/silas/alura/produtos-nodejs/views/index.ejs",
+		"/home/silas/alura/produtos-nodejs/views/produtos/form.ejs",
+		"/home/silas/alura/produtos-nodejs/app.js",
+		"/home/silas/alura/produtos-nodejs/config/express.js",
+		"/home/silas/alura/produtos-nodejs/produtos.js",
+		"/home/silas/alura/produtos-nodejs/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gunt-angularjs.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gr",
+				"projeto/GruntFile.js"
+			],
+			[
+				"vm",
+				"vm-grunt/manifests/vm-node.pp"
+			],
+			[
+				"ind",
+				"projeto/public/js/index.js"
+			],
+			[
+				"i",
+				"projeto/dist/index.html"
+			],
+			[
+				"g",
+				"projeto/GruntFile.js"
+			],
+			[
+				"in",
+				"projeto/public/index.html"
+			],
+			[
+				"form",
+				"app/views/servidor/form.ejs"
+			],
+			[
+				"list",
+				"app/views/servidor/list.ejs"
+			],
+			[
+				"vagr",
+				"vm-node/Vagrantfile"
+			],
+			[
+				"ex",
+				"config/express.js"
+			],
+			[
+				"ser",
+				"app/routes/servidor.js"
+			],
+			[
+				"vm-m",
+				"vm-mysql/manifests/vm-mysql.pp"
+			],
+			[
+				"va",
+				"~/alura/vm-mysql/Vagrantfile"
+			],
+			[
+				"",
+				"app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
